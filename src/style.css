@@ -1,0 +1,19 @@
+.App {
+    font-size: Arial;
+    text-align: center;
+}
+
+* {
+    border: 0;
+    padding: 0;
+}
+
+#root {
+    height: 100vh;
+}
+
+.leaflet-container {
+    margin-top: 10vh;
+    margin-left: 10vh;
+    height: 100vh;
+}
